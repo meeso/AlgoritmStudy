@@ -1,3 +1,5 @@
+//Baekjoon Q#1874 about Stack
+
 #include <stdio.h>
 #include <malloc.h>
 int main(){
